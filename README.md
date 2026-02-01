@@ -152,3 +152,5 @@ npm run dev
 | **Report**   | `GET`  | `/api/v1/conversations/{id}/feedback` | Lấy Scorecard tổng kết.         |
 | **Progress** | `POST` | `/api/v1/progress/complete-video`     | Đánh dấu hoàn thành video.      |
 | **Profile**  | `GET`  | `/api/v1/progress/my-mistakes`        | Xem tổng hợp lỗi sai.           |
+
+© 2026 Talki Project. Built for Vietnamese Gen Z.
